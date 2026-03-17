@@ -5,4 +5,4 @@ Mechanical Engineering + Physics student, always working on being better than ye
 
 **Live Portfolio:** https://KylerBock.github.io
 
-## About me
+
